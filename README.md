@@ -18,10 +18,13 @@ El proyecto está desarrollado con:
 
 ## Colaboración 
 Integrantes del grupo 8 que colaboraron con el desarrollo del proyecto.
- * 1
-* 2
-* 3
-* 4
-* 5
+<ul>
+ <li>Gastón Massa</li>
+ <li>Julián Piedrabuena</li>
+ <li>Edwin Salcedo</li>
+ <li>Matías Santos</li>
+ <li></li>
+ <li></li>
+</ul>
 
 
