@@ -5,7 +5,7 @@
 2. Tecnologías
 3. Colaboradores
 
-###Información general
+### Información general
 Proyecto integrador final del curso de fullstack java  de coco a codo, una página web donde podes encontrar próximos eventos y saber quiénes los oradores, también tenes la posibilidad de comprar tickets para el evento que te guste.
 ### Algunas imágenes
 <kbd>
